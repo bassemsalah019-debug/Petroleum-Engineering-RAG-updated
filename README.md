@@ -1,9 +1,22 @@
 
-## 🛢️ Petroleum Engineering RAG Chatbot (Multi-document)
+## 🛢️ Petroleum Engineering RAG Chatbot (Multi-document) 🤖
 
 A multi-document Retrieval-Augmented Generation (RAG) chatbot that answers petroleum engineering questions using uploaded PDF documents as its knowledge source. Built from scratch -- no LangChain, no LlamaIndex -- every component is implemented manually for educational clarity.
 
-# **[🤖App-link →](https://petroleum-engineering-rag-updated-2zs22ivmyzqgmuz3fcgn9j.streamlit.app/)**
+
+<p align="center">
+  <a href="https://petroleum-engineering-rag-updated-2zs22ivmyzqgmuz3fcgn9j.streamlit.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=F7B500&center=true&vCenter=true&width=700&lines=🚀+Try+the+Petroleum+RAG+Application;🤖+AI-Powered+Document+Question+Answering;📚+Powered+by+FAISS+%2B+BGE+Embeddings+%2B+Groq"/>
+  </a>
+</p>  
+
+<p align="center">
+  <a href="https://petroleum-rag-aj8huw8mnmk74fqevbr8iu.streamlit.app/">
+    <img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-FFB000?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
+
+
 
 ## How It Works
 
