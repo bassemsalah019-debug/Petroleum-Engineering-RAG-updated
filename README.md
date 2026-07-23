@@ -11,7 +11,7 @@ A multi-document Retrieval-Augmented Generation (RAG) chatbot that answers petro
 </p>  
 
 <p align="center">
-  <a href="https://petroleum-rag-aj8huw8mnmk74fqevbr8iu.streamlit.app/">
+  <a href="https://petroleum-engineering-rag-updated-2zs22ivmyzqgmuz3fcgn9j.streamlit.app/">
     <img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-FFB000?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </p>
