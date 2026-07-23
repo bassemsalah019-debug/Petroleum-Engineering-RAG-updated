@@ -1,5 +1,5 @@
 
-# 🛢️ Petroleum Engineering RAG Chatbot (Multi-document)
+## 🛢️ Petroleum Engineering RAG Chatbot (Multi-document)
 
 A multi-document Retrieval-Augmented Generation (RAG) chatbot that answers petroleum engineering questions using uploaded PDF documents as its knowledge source. Built from scratch -- no LangChain, no LlamaIndex -- every component is implemented manually for educational clarity.
 
