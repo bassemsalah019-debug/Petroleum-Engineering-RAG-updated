@@ -3,7 +3,7 @@
 
 A multi-document Retrieval-Augmented Generation (RAG) chatbot that answers petroleum engineering questions using uploaded PDF documents as its knowledge source. Built from scratch -- no LangChain, no LlamaIndex -- every component is implemented manually for educational clarity.
 
-# **[🤖App-link →](https://petroleum-rag-ftzg9bv987qglhurjku8yz.streamlit.app/)**
+# **[🤖App-link →](https://petroleum-engineering-rag-updated-2zs22ivmyzqgmuz3fcgn9j.streamlit.app/)**
 
 ## How It Works
 
